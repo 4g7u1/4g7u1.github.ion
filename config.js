@@ -1,5 +1,5 @@
 export default {
-  title: 'yun yu yuan', // 网站标题
+  title: 'bigcat_li', // 网站标题
   nickName: "bigcat_li", // 昵称
   githubName: '4g7u1', // github账户名
   githubRepo: 'nuxt2-blog', // 勿修改
